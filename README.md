@@ -8,7 +8,7 @@ There is still a lot of work to be done on this repo, so please feel free to rai
 <div align="center">
 
 `FrankaPushSparse-v0` | `FrankaSlideSparse-v0` | `FrankaPickAndPlaceSparse-v0`
-|:------------------------|:------------------------:|:------------------------:|
+|:------------------------:|:------------------------:|:------------------------:|
 <img src="./docs/push.gif" alt="" width="200"/> | <img src="./docs/slide.gif" alt="" width="200"/> | <img src="./docs/pnp.gif" alt="" width="200"/>
 </div>
 
