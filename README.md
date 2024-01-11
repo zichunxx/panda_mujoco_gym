@@ -18,7 +18,7 @@ There is still a lot of work to be done on this repo, so please feel free to rai
 
 `FrankaPushSparse-v0` | `FrankaSlideSparse-v0` | `FrankaPickAndPlaceSparse-v0`
 |:------------------------:|:------------------------:|:------------------------:|
-<img src="./docs/FrankaPushSparse-v0.jpg" alt="" width="230"/> | <img src="./docs/FrankaSlideSparse-v0.jpg" alt="" width="230"/> | <img src="./docs/FrankaPickSparse-v0.jpg" alt="" width="230"/>
+<img src="./docs/FrankaPushSparse-v1.jpg" alt="" width="230"/> | <img src="./docs/FrankaSlideSparse-v1.jpg" alt="" width="230"/> | <img src="./docs/FrankaPickSparse-v1.jpg" alt="" width="230"/>
 
 </div>
 
